@@ -388,6 +388,11 @@ a {
             color: #D63447; }
             .unslate_co--site-nav.scrolled .site-nav-ul > li > a.active:before, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a.active:before {
               background: #fff; }
+
+              .highlighted{
+                background: green;
+                color: #D63447;
+              }
     .unslate_co--site-nav.scrolled.awake {
       margin-top: 0px;
       -webkit-transition: .3s all ease-out;
